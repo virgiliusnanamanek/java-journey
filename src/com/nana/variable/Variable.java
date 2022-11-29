@@ -6,6 +6,6 @@ public class Variable {
 		String firstName = "Vicky";
 		int age = 20;
 		System.out.println("My name is" + " " + firstName + " " + "and I am " + age + " " + "years old");
-}
+	}
 
 }
